@@ -16,6 +16,6 @@ public class HmDianPingApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(HmDianPingApplication.class, args);
+        System.out.println("ssss");
     }
-
 }
